@@ -1,0 +1,14 @@
+C:\Users\miksi\Desktop\C#\LinkedLists\LinkedLists\obj\Debug\net9.0\LinkedLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miksi\Desktop\C#\LinkedLists\LinkedLists\obj\Debug\net9.0\LinkedLists.AssemblyInfoInputs.cache
+C:\Users\miksi\Desktop\C#\LinkedLists\LinkedLists\obj\Debug\net9.0\LinkedLists.AssemblyInfo.cs
+C:\Users\miksi\Desktop\C#\LinkedLists\LinkedLists\obj\Debug\net9.0\LinkedLists.csproj.CoreCompileInputs.cache
+C:\Users\miksi\Desktop\C#\LinkedLists\LinkedLists\bin\Debug\net9.0\LinkedLists.exe
+C:\Users\miksi\Desktop\C#\LinkedLists\LinkedLists\bin\Debug\net9.0\LinkedLists.deps.json
+C:\Users\miksi\Desktop\C#\LinkedLists\LinkedLists\bin\Debug\net9.0\LinkedLists.runtimeconfig.json
+C:\Users\miksi\Desktop\C#\LinkedLists\LinkedLists\bin\Debug\net9.0\LinkedLists.dll
+C:\Users\miksi\Desktop\C#\LinkedLists\LinkedLists\bin\Debug\net9.0\LinkedLists.pdb
+C:\Users\miksi\Desktop\C#\LinkedLists\LinkedLists\obj\Debug\net9.0\LinkedLists.dll
+C:\Users\miksi\Desktop\C#\LinkedLists\LinkedLists\obj\Debug\net9.0\refint\LinkedLists.dll
+C:\Users\miksi\Desktop\C#\LinkedLists\LinkedLists\obj\Debug\net9.0\LinkedLists.pdb
+C:\Users\miksi\Desktop\C#\LinkedLists\LinkedLists\obj\Debug\net9.0\LinkedLists.genruntimeconfig.cache
+C:\Users\miksi\Desktop\C#\LinkedLists\LinkedLists\obj\Debug\net9.0\ref\LinkedLists.dll

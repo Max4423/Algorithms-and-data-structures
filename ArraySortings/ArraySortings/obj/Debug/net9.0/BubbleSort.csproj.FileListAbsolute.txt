@@ -1,0 +1,42 @@
+C:\Users\miksi\Desktop\C#\ArraySortings\ArraySortings\obj\Debug\net9.0\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miksi\Desktop\C#\ArraySortings\ArraySortings\obj\Debug\net9.0\BubbleSort.AssemblyInfoInputs.cache
+C:\Users\miksi\Desktop\C#\ArraySortings\ArraySortings\obj\Debug\net9.0\BubbleSort.AssemblyInfo.cs
+C:\Users\miksi\Desktop\C#\ArraySortings\ArraySortings\obj\Debug\net9.0\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\miksi\Desktop\C#\ArraySortings\ArraySortings\bin\Debug\net9.0\SharedFunctions.deps.json
+C:\Users\miksi\Desktop\C#\ArraySortings\ArraySortings\bin\Debug\net9.0\SharedFunctions.runtimeconfig.json
+C:\Users\miksi\Desktop\C#\ArraySortings\ArraySortings\bin\Debug\net9.0\SharedFunctions.exe
+C:\Users\miksi\Desktop\C#\ArraySortings\ArraySortings\bin\Debug\net9.0\BubbleSort.exe
+C:\Users\miksi\Desktop\C#\ArraySortings\ArraySortings\bin\Debug\net9.0\BubbleSort.deps.json
+C:\Users\miksi\Desktop\C#\ArraySortings\ArraySortings\bin\Debug\net9.0\BubbleSort.runtimeconfig.json
+C:\Users\miksi\Desktop\C#\ArraySortings\ArraySortings\bin\Debug\net9.0\BubbleSort.dll
+C:\Users\miksi\Desktop\C#\ArraySortings\ArraySortings\bin\Debug\net9.0\BubbleSort.pdb
+C:\Users\miksi\Desktop\C#\ArraySortings\ArraySortings\bin\Debug\net9.0\SharedFunctions.dll
+C:\Users\miksi\Desktop\C#\ArraySortings\ArraySortings\bin\Debug\net9.0\SharedFunctions.pdb
+C:\Users\miksi\Desktop\C#\ArraySortings\ArraySortings\obj\Debug\net9.0\BubbleSort.csproj.AssemblyReference.cache
+C:\Users\miksi\Desktop\C#\ArraySortings\ArraySortings\obj\Debug\net9.0\BubbleSort.csproj.Up2Date
+C:\Users\miksi\Desktop\C#\ArraySortings\ArraySortings\obj\Debug\net9.0\BubbleSort.dll
+C:\Users\miksi\Desktop\C#\ArraySortings\ArraySortings\obj\Debug\net9.0\refint\BubbleSort.dll
+C:\Users\miksi\Desktop\C#\ArraySortings\ArraySortings\obj\Debug\net9.0\BubbleSort.pdb
+C:\Users\miksi\Desktop\C#\ArraySortings\ArraySortings\obj\Debug\net9.0\BubbleSort.genruntimeconfig.cache
+C:\Users\miksi\Desktop\C#\ArraySortings\ArraySortings\obj\Debug\net9.0\ref\BubbleSort.dll
+C:\Users\miksi\Desktop\C#\Algorithms and data structures\ArraySortings\ArraySortings\bin\Debug\net9.0\SharedFunctions.deps.json
+C:\Users\miksi\Desktop\C#\Algorithms and data structures\ArraySortings\ArraySortings\bin\Debug\net9.0\SharedFunctions.runtimeconfig.json
+C:\Users\miksi\Desktop\C#\Algorithms and data structures\ArraySortings\ArraySortings\bin\Debug\net9.0\SharedFunctions.exe
+C:\Users\miksi\Desktop\C#\Algorithms and data structures\ArraySortings\ArraySortings\bin\Debug\net9.0\BubbleSort.exe
+C:\Users\miksi\Desktop\C#\Algorithms and data structures\ArraySortings\ArraySortings\bin\Debug\net9.0\BubbleSort.deps.json
+C:\Users\miksi\Desktop\C#\Algorithms and data structures\ArraySortings\ArraySortings\bin\Debug\net9.0\BubbleSort.runtimeconfig.json
+C:\Users\miksi\Desktop\C#\Algorithms and data structures\ArraySortings\ArraySortings\bin\Debug\net9.0\BubbleSort.dll
+C:\Users\miksi\Desktop\C#\Algorithms and data structures\ArraySortings\ArraySortings\bin\Debug\net9.0\BubbleSort.pdb
+C:\Users\miksi\Desktop\C#\Algorithms and data structures\ArraySortings\ArraySortings\bin\Debug\net9.0\SharedFunctions.dll
+C:\Users\miksi\Desktop\C#\Algorithms and data structures\ArraySortings\ArraySortings\bin\Debug\net9.0\SharedFunctions.pdb
+C:\Users\miksi\Desktop\C#\Algorithms and data structures\ArraySortings\ArraySortings\obj\Debug\net9.0\BubbleSort.csproj.AssemblyReference.cache
+C:\Users\miksi\Desktop\C#\Algorithms and data structures\ArraySortings\ArraySortings\obj\Debug\net9.0\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miksi\Desktop\C#\Algorithms and data structures\ArraySortings\ArraySortings\obj\Debug\net9.0\BubbleSort.AssemblyInfoInputs.cache
+C:\Users\miksi\Desktop\C#\Algorithms and data structures\ArraySortings\ArraySortings\obj\Debug\net9.0\BubbleSort.AssemblyInfo.cs
+C:\Users\miksi\Desktop\C#\Algorithms and data structures\ArraySortings\ArraySortings\obj\Debug\net9.0\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\miksi\Desktop\C#\Algorithms and data structures\ArraySortings\ArraySortings\obj\Debug\net9.0\BubbleSort.csproj.Up2Date
+C:\Users\miksi\Desktop\C#\Algorithms and data structures\ArraySortings\ArraySortings\obj\Debug\net9.0\BubbleSort.dll
+C:\Users\miksi\Desktop\C#\Algorithms and data structures\ArraySortings\ArraySortings\obj\Debug\net9.0\refint\BubbleSort.dll
+C:\Users\miksi\Desktop\C#\Algorithms and data structures\ArraySortings\ArraySortings\obj\Debug\net9.0\BubbleSort.pdb
+C:\Users\miksi\Desktop\C#\Algorithms and data structures\ArraySortings\ArraySortings\obj\Debug\net9.0\BubbleSort.genruntimeconfig.cache
+C:\Users\miksi\Desktop\C#\Algorithms and data structures\ArraySortings\ArraySortings\obj\Debug\net9.0\ref\BubbleSort.dll

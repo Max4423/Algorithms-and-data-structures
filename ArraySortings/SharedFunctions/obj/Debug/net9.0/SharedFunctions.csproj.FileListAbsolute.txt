@@ -1,0 +1,28 @@
+C:\Users\miksi\Desktop\C#\ArraySortings\SharedFunctions\obj\Debug\net9.0\SharedFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miksi\Desktop\C#\ArraySortings\SharedFunctions\obj\Debug\net9.0\SharedFunctions.AssemblyInfoInputs.cache
+C:\Users\miksi\Desktop\C#\ArraySortings\SharedFunctions\obj\Debug\net9.0\SharedFunctions.AssemblyInfo.cs
+C:\Users\miksi\Desktop\C#\ArraySortings\SharedFunctions\obj\Debug\net9.0\SharedFunctions.csproj.CoreCompileInputs.cache
+C:\Users\miksi\Desktop\C#\ArraySortings\SharedFunctions\bin\Debug\net9.0\SharedFunctions.exe
+C:\Users\miksi\Desktop\C#\ArraySortings\SharedFunctions\bin\Debug\net9.0\SharedFunctions.deps.json
+C:\Users\miksi\Desktop\C#\ArraySortings\SharedFunctions\bin\Debug\net9.0\SharedFunctions.runtimeconfig.json
+C:\Users\miksi\Desktop\C#\ArraySortings\SharedFunctions\bin\Debug\net9.0\SharedFunctions.dll
+C:\Users\miksi\Desktop\C#\ArraySortings\SharedFunctions\bin\Debug\net9.0\SharedFunctions.pdb
+C:\Users\miksi\Desktop\C#\ArraySortings\SharedFunctions\obj\Debug\net9.0\SharedFunctions.dll
+C:\Users\miksi\Desktop\C#\ArraySortings\SharedFunctions\obj\Debug\net9.0\refint\SharedFunctions.dll
+C:\Users\miksi\Desktop\C#\ArraySortings\SharedFunctions\obj\Debug\net9.0\SharedFunctions.pdb
+C:\Users\miksi\Desktop\C#\ArraySortings\SharedFunctions\obj\Debug\net9.0\SharedFunctions.genruntimeconfig.cache
+C:\Users\miksi\Desktop\C#\ArraySortings\SharedFunctions\obj\Debug\net9.0\ref\SharedFunctions.dll
+C:\Users\miksi\Desktop\C#\Algorithms and data structures\ArraySortings\SharedFunctions\bin\Debug\net9.0\SharedFunctions.exe
+C:\Users\miksi\Desktop\C#\Algorithms and data structures\ArraySortings\SharedFunctions\bin\Debug\net9.0\SharedFunctions.deps.json
+C:\Users\miksi\Desktop\C#\Algorithms and data structures\ArraySortings\SharedFunctions\bin\Debug\net9.0\SharedFunctions.runtimeconfig.json
+C:\Users\miksi\Desktop\C#\Algorithms and data structures\ArraySortings\SharedFunctions\bin\Debug\net9.0\SharedFunctions.dll
+C:\Users\miksi\Desktop\C#\Algorithms and data structures\ArraySortings\SharedFunctions\bin\Debug\net9.0\SharedFunctions.pdb
+C:\Users\miksi\Desktop\C#\Algorithms and data structures\ArraySortings\SharedFunctions\obj\Debug\net9.0\SharedFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miksi\Desktop\C#\Algorithms and data structures\ArraySortings\SharedFunctions\obj\Debug\net9.0\SharedFunctions.AssemblyInfoInputs.cache
+C:\Users\miksi\Desktop\C#\Algorithms and data structures\ArraySortings\SharedFunctions\obj\Debug\net9.0\SharedFunctions.AssemblyInfo.cs
+C:\Users\miksi\Desktop\C#\Algorithms and data structures\ArraySortings\SharedFunctions\obj\Debug\net9.0\SharedFunctions.csproj.CoreCompileInputs.cache
+C:\Users\miksi\Desktop\C#\Algorithms and data structures\ArraySortings\SharedFunctions\obj\Debug\net9.0\SharedFunctions.dll
+C:\Users\miksi\Desktop\C#\Algorithms and data structures\ArraySortings\SharedFunctions\obj\Debug\net9.0\refint\SharedFunctions.dll
+C:\Users\miksi\Desktop\C#\Algorithms and data structures\ArraySortings\SharedFunctions\obj\Debug\net9.0\SharedFunctions.pdb
+C:\Users\miksi\Desktop\C#\Algorithms and data structures\ArraySortings\SharedFunctions\obj\Debug\net9.0\SharedFunctions.genruntimeconfig.cache
+C:\Users\miksi\Desktop\C#\Algorithms and data structures\ArraySortings\SharedFunctions\obj\Debug\net9.0\ref\SharedFunctions.dll
